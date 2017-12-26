@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<form action="/Home/Index" method="get">
+    <div class="jumbotron">
+        <table>
+            <tbody>
+                <tr>
+                    <th>Rolagens</th>
+                </tr>
+                @foreach (int i in ViewBag.Rolagens)
+            {
+                    <tr>
+                        <td>Valor de: @i</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <input class="btn btn-primary" role="button" type="submit" value="Jogar Dados" name="Submit" id="btnJogar" />
+
+    </div>
+    <div class="alert-info">
+        <span>@ViewBag.Pontuacao</span>
+    </div>
+</form>

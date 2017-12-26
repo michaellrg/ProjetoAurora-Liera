@@ -1,0 +1,10 @@
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Repositorio\bin\Debug\Repositorio.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Repositorio\bin\Debug\Repositorio.pdb
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Repositorio\obj\Debug\Repositorio.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Avanxo\Desktop\Aurora-master\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Avanxo\Desktop\Aurora-master\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Avanxo\Desktop\Aurora-master\Repositorio\obj\Debug\Repositorio.pdb

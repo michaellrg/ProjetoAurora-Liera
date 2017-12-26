@@ -1,0 +1,10 @@
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Dominio\bin\Debug\Dominio.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Dominio\bin\Debug\Dominio.pdb
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Dominio\obj\Debug\Dominio.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\Dominio\bin\Debug\Dominio.dll
+C:\Users\Avanxo\Desktop\Aurora-master\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Avanxo\Desktop\Aurora-master\Dominio\obj\Debug\Dominio.dll
+C:\Users\Avanxo\Desktop\Aurora-master\Dominio\obj\Debug\Dominio.pdb

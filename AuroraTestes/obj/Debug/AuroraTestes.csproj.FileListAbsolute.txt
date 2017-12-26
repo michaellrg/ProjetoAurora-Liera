@@ -1,0 +1,34 @@
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\AuroraTestes.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\AuroraTestes.pdb
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Dominio.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Dominio.pdb
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\obj\Debug\AuroraTestes.csprojResolveAssemblyReference.cache
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\obj\Debug\AuroraTestes.dll
+c:\users\joao\documents\visual studio 2017\Projects\Aurora\AuroraTestes\obj\Debug\AuroraTestes.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\AuroraTestes.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\AuroraTestes.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Dominio.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Dominio.pdb
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\obj\Debug\AuroraTestes.csprojResolveAssemblyReference.cache
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\obj\Debug\AuroraTestes.dll
+C:\Users\Avanxo\Desktop\Aurora-master\AuroraTestes\obj\Debug\AuroraTestes.pdb
